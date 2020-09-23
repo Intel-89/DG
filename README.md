@@ -1,3 +1,4 @@
+<img src="https://github.com/Intel-89/other/blob/master/Repo_Resources/DG.png" width="350">
 # Data Governance Repo
 
 ## Metadata links

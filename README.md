@@ -9,3 +9,4 @@
 1. [Metadata and their Importance to Information Technology](http://www.fao.org/3/ac665e/ac665e08.htm)
 1. [Questions Metadata Can Answer](https://tdan.com/questions-metadata-can-answer-2/23263)
 1. [Metadata is the Key to Data Management Success](https://www.dataversity.net/metadata-key-data-management-success/)
+1. [Why Metadata is Even More Important Than Data](https://www.dataversity.net/why-metadata-is-even-more-important-than-data/)
